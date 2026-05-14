@@ -176,52 +176,9 @@ The reporting layer provides insights into:
 
 ---
 
-## Folder Structure
-
-```bash
-├── notebooks/
-│   ├── bronze_ingestion
-│   ├── silver_transformation
-│   ├── gold_scd_merge
-│
-├── datasets/
-│   ├── accounts.csv
-│   ├── customers.csv
-│   ├── loans.csv
-│   ├── payments.csv
-│   └── transactions.csv
-│
-├── dashboards/
-│   └── powerbi_dashboard.pbix
-│
-├── ETLWorkflow.png
-├── Dashboard.png
-└── README.md
-```
-
----
-
-## Future Enhancements
-
-- CI/CD integration using Azure DevOps
-- Automated unit testing framework for data pipelines
-- Real-time streaming ingestion using Event Hub
-- Data quality monitoring using Great Expectations
-- Advanced performance optimization using Z-Ordering and VACUUM
-
----
-
-## Professional Summary
-
-This project demonstrates hands-on experience in designing enterprise-scale Azure Data Engineering solutions using Databricks, Delta Lake, and Power BI. The implementation focuses on scalability, maintainability, security, and production-ready architecture patterns commonly used in modern cloud data platforms.
-
----
-
 ## Connect With Me
 
-- LinkedIn: <PRIVATE_LINKEDIN>
-- Portfolio Website: <PRIVATE_WEBSITE>
-- Medium Blog: <PRIVATE_MEDIUM>
+- LinkedIn: https://www.linkedin.com/in/aniketh8/
 
 ---
 
