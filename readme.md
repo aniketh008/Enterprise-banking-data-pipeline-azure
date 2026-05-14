@@ -140,31 +140,6 @@ The reporting layer provides insights into:
 
 ---
 
-## Key Engineering Features
-
-### Scalable Data Processing
-- Distributed data processing using Spark
-- Optimized transformations for large datasets
-- Partition-based ingestion strategy
-
-### Delta Lake Implementation
-- ACID transaction support
-- Reliable MERGE operations
-- Schema evolution support
-- Improved performance and consistency
-
-### Secure Data Handling
-- Secret management using Azure Key Vault
-- Secure access configuration for storage layers
-
-### Production-Oriented Design
-- Modular notebook structure
-- Reusable transformation logic
-- Workflow scheduling support
-- Error handling and logging strategy
-
----
-
 ## Project Highlights
 
 - Built end-to-end Azure data engineering pipeline
@@ -179,10 +154,3 @@ The reporting layer provides insights into:
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/aniketh8/
-
----
-
-## Repository Reference
-
-Original project reference and README context provided by the user: fileciteturn0file0
-
